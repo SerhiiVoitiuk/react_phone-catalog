@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.5352a3fc.css",
-    "main.js": "./static/js/main.af03ae5e.js",
+    "main.css": "./static/css/main.bdcef47d.css",
+    "main.js": "./static/js/main.d8f969ee.js",
     "static/media/Tablets.svg": "./static/media/Tablets.b3ad471af34fc54d437cd15cdfd0a9f4.svg",
     "static/media/Accessories.svg": "./static/media/Accessories.2b7c1ffa4ba182b61d37d14a26ec4e12.svg",
     "static/media/1.png": "./static/media/1.b4eeda8bd82b712057a2.png",
@@ -15,6 +15,7 @@
     "static/media/Shopping bag (Cart).svg": "./static/media/Shopping bag (Cart).f9632dca8fdaed9bb696b99ac28006ba.svg",
     "static/media/Favourites.svg": "./static/media/Favourites.670cf5136eb8aecd15dcbb439577b93e.svg",
     "static/media/Home.svg": "./static/media/Home.d4c29e4f137b3a79235a5293536d71a0.svg",
+    "static/media/Search.svg": "./static/media/Search.6c29e21fe4d063cb7bb859d3f12bff21.svg",
     "static/media/Favourites Filled (Heart Like).svg": "./static/media/Favourites Filled (Heart Like).d554a185325e4fb0609231b1cff64b18.svg",
     "static/media/Close.svg": "./static/media/Close.3ea864f59fecb8596c4be9c8a455c02a.svg",
     "static/media/Menu.svg": "./static/media/Menu.7d886604721a2522b7ee9d3609bcd8e8.svg",
@@ -26,13 +27,13 @@
     "static/media/Chevron (Arrow Up).svg": "./static/media/Chevron (Arrow Up).1ea6958a07717117d3d583ab6fe7dcbd.svg",
     "static/media/Arrow Right.svg": "./static/media/Arrow Right.6ea4dc179740ba122e4477b869e7af0d.svg",
     "static/media/Arrow Left.svg": "./static/media/Arrow Left.6b099a50c157f16fe04397a8c1984a22.svg",
-    "static/media/Minus.svg": "./static/media/Minus.cecb4be39afa7b933ec169dd495a73ff.svg",
     "index.html": "./index.html",
-    "main.5352a3fc.css.map": "./static/css/main.5352a3fc.css.map",
-    "main.af03ae5e.js.map": "./static/js/main.af03ae5e.js.map"
+    "static/media/Minus.svg": "./static/media/Minus.cecb4be39afa7b933ec169dd495a73ff.svg",
+    "main.bdcef47d.css.map": "./static/css/main.bdcef47d.css.map",
+    "main.d8f969ee.js.map": "./static/js/main.d8f969ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.5352a3fc.css",
-    "static/js/main.af03ae5e.js"
+    "static/css/main.bdcef47d.css",
+    "static/js/main.d8f969ee.js"
   ]
 }
